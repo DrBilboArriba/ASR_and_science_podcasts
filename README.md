@@ -1,6 +1,6 @@
 # ASR_and_science_podcasts
 
-Herzlich Willkommen auf diesem GitHub Repository,   
+Herzlich Willkommen auf diesem GitHub Repository, 
 auf dem ich die Ergebnisse und Skripte meiner Bachelorarbeit "Transkription wissenschaftlicher Podcasts unter Verwendung von automatischen Spracherkennungssystemen" präsentiere. Zusätzlich biete ich Ihnen hier die Möglichkeit, auf die Datengrundlage zuzugreifen, die im Rahmen meiner Forschung verwendet wurde. Über die bereitgestellten Links finden Sie weitere Informationen zu den Daten und können diese dort herunterladen beziehungsweise anfordern.
 
 ## Abstract

@@ -8,7 +8,7 @@ Der digitale Wandel, getrieben durch die Evolution von "New Media mit ihren inte
 
 ## Inhalt
 
-- **Common_voice:** Enthält die Ergebnisse die auf den Daten des Common Voice Datensatzes erzielt wurden.
+- **Common_voice:** Enthält die Ergebnisse die auf den Daten des Common Voice Datensatzes erzielt wurden. 
 
 - **GigaSpeech:** Enthält die Ergebnisse die auf den Daten des GigaSpeech Datensatzes erzielt wurden.
 
@@ -24,3 +24,9 @@ Zur Transkription wurde das kleinste Whisper-Modell verwendet. Die Ergebnisse ze
 ## Skripte
 
 Die Ergebnisse können unter Verwendung der bereitgestellten Daten und Skripte repliziert werden. Hierzu wird das Skript "BA_ASR_and_science_podcasts.ipynb" benötigt, sowie die .tsv-Dateien, welche sich in den Ordnern 'Common_voice', 'GigaSpeech' und 'summary'befinden. Stellen Sie sicher, dass alle verwendeten Bibliotheken, die zu Beginn des Skripts importiert werden, installiert sind. Des Weiteren benötigen Sie eine Installation von FFmpeg zur Ausführung von Whisper. Die nötigen Links sind ebenfalls im Skript eingebunden.
+
+## Weiterführende Links
+
+- [Common Voice](https://github.com/common-voice/common-voice)
+- [GigaSpeech](https://github.com/SpeechColab/GigaSpeech)
+- [Open Science Radio](https://www.openscienceradio.org/)
